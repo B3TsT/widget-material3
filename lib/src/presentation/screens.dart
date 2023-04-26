@@ -1,6 +1,7 @@
 export 'screens/animated/animated_screen.dart';
 export 'screens/app_tutorial_screen.dart';
 export 'screens/counter/counter_screen.dart';
+export 'screens/theme_changer/theme_changer.dart';
 export 'screens/buttons/buttons_screen.dart';
 export 'screens/cards/cards_screen.dart';
 export 'screens/home/home_screen.dart';
